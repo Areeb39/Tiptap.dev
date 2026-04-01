@@ -17,10 +17,4 @@ I am a passionate Front-End Developer from Karachi, Pakistan, specializing in bu
 - Mobile-First Web Design
 
 ---
-
-### 📊 GitHub Stats
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Areeb39&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb39&layout=compact&theme=radical)
-
----
 📫 **How to reach me:** [ areebbaig289@gmail.com ]
